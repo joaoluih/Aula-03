@@ -1,3 +1,3 @@
 # AulaGit
 
-Aula sobre Git, GitHub e outas coisas
+Aula sobre Git, GitHub e outas coisas;
